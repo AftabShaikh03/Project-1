@@ -36,7 +36,10 @@ step 5 - in DAX we applied some measure and columns to the data for better under
 
  I have uploaded the dashboard of power BI in this you can see my playing 11 and can make your playing 11. 
 
- 
+ Dashboard - "C:\Users\javed\OneDrive\Desktop\project 1.pbix"
+
+
+
 
 
 
